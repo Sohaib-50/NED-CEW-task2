@@ -22,9 +22,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="end"
-        android:textColor="@color/black"
         android:text="@string/btnOpenWeb"
-        />
+        android:textColor="@color/black"
+        app:backgroundTint="#FFFFFF" />
 
     <EditText
         android:id="@+id/et_openLocation"
@@ -39,8 +39,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="end"
+        android:text="@string/btnOpenLocation"
         android:textColor="@color/black"
-        android:text="@string/btnOpenLocation" />
+        app:backgroundTint="@color/white"
+        app:iconTint="#FFFFFF" />
 
 
 </LinearLayout>
