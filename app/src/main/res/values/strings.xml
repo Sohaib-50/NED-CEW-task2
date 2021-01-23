@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CEW task2 CS-19096,19079</string>
+    <string name="defaultWeb">http://developer.android.com</string>
+    <string name="defaultLocation">Golden Gate Bridge</string>
+    <string name="btnOpenWeb">OPEN WEBSITE</string>
+    <string name="btnOpenLocation">OPEN LOCATION</string>
 </resources>
